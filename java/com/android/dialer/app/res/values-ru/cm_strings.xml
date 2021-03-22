@@ -33,4 +33,9 @@
     <string name="call_log_stats_title">Статистика</string>
 
     <string name="auto_call_recording_title">Автоматическая запись звонков</string>
+
+    <!-- Full Screen Caller Photo -->
+    <string name="fullscreen_caller_photo_title">Полноэкранная фотография</string>
+    <string name="fullscreen_caller_photo_summary">Отображение полноэкранного фото при входящих и исходящих звонках</string>
+    <string name="fullscreen_caller_photo_message">Для использования необходимо перезапустить приложение</string>
 </resources>
